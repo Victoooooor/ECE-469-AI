@@ -1,5 +1,3 @@
-# ECE-469-AI
-F2020 Proj1&amp;2
 1. to compile, use makefile command "make"
 *. wxwidgets library is required for compiling
 2. to start game open Checker.exe, then option->start game or option->load game to load from games saved in format provided online
